@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/keneanbiru/a2sv/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Math
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/keneanbiru/a2sv/tree/master/0826-soup-servings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/keneanbiru/a2sv/tree/master/0826-soup-servings) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/keneanbiru/a2sv/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->

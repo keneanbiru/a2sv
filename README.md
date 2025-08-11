@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/keneanbiru/a2sv/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2529-range-product-queries-of-powers](https://github.com/keneanbiru/a2sv/tree/master/2529-range-product-queries-of-powers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/keneanbiru/a2sv/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/keneanbiru/a2sv/tree/master/0826-soup-servings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/keneanbiru/a2sv/tree/master/2529-range-product-queries-of-powers) |
+## Prefix Sum
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/keneanbiru/a2sv/tree/master/2529-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->

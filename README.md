@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/keneanbiru/a2sv/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/keneanbiru/a2sv/tree/master/0826-soup-servings) |
 ## Dynamic Programming
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/keneanbiru/a2sv/tree/master/2529-range-product-queries-of-powers) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/keneanbiru/a2sv/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->

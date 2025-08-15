@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/keneanbiru/a2sv/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/keneanbiru/a2sv/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/keneanbiru/a2sv/tree/master/0826-soup-servings) |
 ## Dynamic Programming
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/keneanbiru/a2sv/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/keneanbiru/a2sv/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
@@ -44,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/keneanbiru/a2sv/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/keneanbiru/a2sv/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

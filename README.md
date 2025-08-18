@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0679-24-game](https://github.com/keneanbiru/a2sv/tree/master/0679-24-game) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/keneanbiru/a2sv/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2529-range-product-queries-of-powers](https://github.com/keneanbiru/a2sv/tree/master/2529-range-product-queries-of-powers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/keneanbiru/a2sv/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/keneanbiru/a2sv/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/keneanbiru/a2sv/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/keneanbiru/a2sv/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/keneanbiru/a2sv/tree/master/0826-soup-servings) |
 ## Dynamic Programming
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/keneanbiru/a2sv/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/keneanbiru/a2sv/tree/master/0342-power-of-four) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/keneanbiru/a2sv/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->

@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/keneanbiru/a2sv/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/keneanbiru/a2sv/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/keneanbiru/a2sv/tree/master/0826-soup-servings) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/keneanbiru/a2sv/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Dynamic Programming
 |  |
 | ------- |

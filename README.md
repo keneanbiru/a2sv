@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/keneanbiru/a2sv/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/keneanbiru/a2sv/tree/master/0826-soup-servings) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/keneanbiru/a2sv/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [2037-count-square-sum-triples](https://github.com/keneanbiru/a2sv/tree/master/2037-count-square-sum-triples) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/keneanbiru/a2sv/tree/master/0166-fraction-to-recurring-decimal) |
+## Enumeration
+|  |
+| ------- |
+| [2037-count-square-sum-triples](https://github.com/keneanbiru/a2sv/tree/master/2037-count-square-sum-triples) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/keneanbiru/a2sv/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2529-range-product-queries-of-powers](https://github.com/keneanbiru/a2sv/tree/master/2529-range-product-queries-of-powers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/keneanbiru/a2sv/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3885-count-special-triplets](https://github.com/keneanbiru/a2sv/tree/master/3885-count-special-triplets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/keneanbiru/a2sv/tree/master/0166-fraction-to-recurring-decimal) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/keneanbiru/a2sv/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3885-count-special-triplets](https://github.com/keneanbiru/a2sv/tree/master/3885-count-special-triplets) |
 ## Greedy
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/keneanbiru/a2sv/tree/master/2037-count-square-sum-triples) |
+## Counting
+|  |
+| ------- |
+| [3885-count-special-triplets](https://github.com/keneanbiru/a2sv/tree/master/3885-count-special-triplets) |
 <!---LeetCode Topics End-->

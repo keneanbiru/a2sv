@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/keneanbiru/a2sv/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3819-count-covered-buildings](https://github.com/keneanbiru/a2sv/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/keneanbiru/a2sv/tree/master/3885-count-special-triplets) |
+| [3934-coupon-code-validator](https://github.com/keneanbiru/a2sv/tree/master/3934-coupon-code-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/keneanbiru/a2sv/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3819-count-covered-buildings](https://github.com/keneanbiru/a2sv/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/keneanbiru/a2sv/tree/master/3885-count-special-triplets) |
+| [3934-coupon-code-validator](https://github.com/keneanbiru/a2sv/tree/master/3934-coupon-code-validator) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/keneanbiru/a2sv/tree/master/0166-fraction-to-recurring-decimal) |
+| [3934-coupon-code-validator](https://github.com/keneanbiru/a2sv/tree/master/3934-coupon-code-validator) |
 ## Enumeration
 |  |
 | ------- |
@@ -86,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3819-count-covered-buildings](https://github.com/keneanbiru/a2sv/tree/master/3819-count-covered-buildings) |
+| [3934-coupon-code-validator](https://github.com/keneanbiru/a2sv/tree/master/3934-coupon-code-validator) |
 <!---LeetCode Topics End-->

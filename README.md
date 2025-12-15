@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/keneanbiru/a2sv/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/keneanbiru/a2sv/tree/master/0679-24-game) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/keneanbiru/a2sv/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/keneanbiru/a2sv/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2529-range-product-queries-of-powers](https://github.com/keneanbiru/a2sv/tree/master/2529-range-product-queries-of-powers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/keneanbiru/a2sv/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -38,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/keneanbiru/a2sv/tree/master/0826-soup-servings) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/keneanbiru/a2sv/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2037-count-square-sum-triples](https://github.com/keneanbiru/a2sv/tree/master/2037-count-square-sum-triples) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/keneanbiru/a2sv/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/keneanbiru/a2sv/tree/master/0826-soup-servings) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/keneanbiru/a2sv/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 ## Probability and Statistics
 |  |
 | ------- |

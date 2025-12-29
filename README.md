@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/keneanbiru/a2sv/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/keneanbiru/a2sv/tree/master/0679-24-game) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/keneanbiru/a2sv/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/keneanbiru/a2sv/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/keneanbiru/a2sv/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2529-range-product-queries-of-powers](https://github.com/keneanbiru/a2sv/tree/master/2529-range-product-queries-of-powers) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/keneanbiru/a2sv/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/keneanbiru/a2sv/tree/master/0826-soup-servings) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/keneanbiru/a2sv/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/keneanbiru/a2sv/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2037-count-square-sum-triples](https://github.com/keneanbiru/a2sv/tree/master/2037-count-square-sum-triples) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/keneanbiru/a2sv/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 ## Dynamic Programming
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/keneanbiru/a2sv/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/keneanbiru/a2sv/tree/master/0342-power-of-four) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/keneanbiru/a2sv/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/keneanbiru/a2sv/tree/master/0498-diagonal-traverse) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/keneanbiru/a2sv/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -93,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3819-count-covered-buildings](https://github.com/keneanbiru/a2sv/tree/master/3819-count-covered-buildings) |
 | [3934-coupon-code-validator](https://github.com/keneanbiru/a2sv/tree/master/3934-coupon-code-validator) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/keneanbiru/a2sv/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->

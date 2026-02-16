@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/keneanbiru/a2sv/tree/master/0209-minimum-size-subarray-sum) |
 | [0498-diagonal-traverse](https://github.com/keneanbiru/a2sv/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/keneanbiru/a2sv/tree/master/0679-24-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/keneanbiru/a2sv/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/keneanbiru/a2sv/tree/master/0209-minimum-size-subarray-sum) |
 | [2529-range-product-queries-of-powers](https://github.com/keneanbiru/a2sv/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -101,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/keneanbiru/a2sv/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/keneanbiru/a2sv/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/keneanbiru/a2sv/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

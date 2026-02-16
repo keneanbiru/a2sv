@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/keneanbiru/a2sv/tree/master/0209-minimum-size-subarray-sum) |
 | [0498-diagonal-traverse](https://github.com/keneanbiru/a2sv/tree/master/0498-diagonal-traverse) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keneanbiru/a2sv/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0679-24-game](https://github.com/keneanbiru/a2sv/tree/master/0679-24-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/keneanbiru/a2sv/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/keneanbiru/a2sv/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/keneanbiru/a2sv/tree/master/0166-fraction-to-recurring-decimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/keneanbiru/a2sv/tree/master/0424-longest-repeating-character-replacement) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keneanbiru/a2sv/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/keneanbiru/a2sv/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3819-count-covered-buildings](https://github.com/keneanbiru/a2sv/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/keneanbiru/a2sv/tree/master/3885-count-special-triplets) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keneanbiru/a2sv/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/keneanbiru/a2sv/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keneanbiru/a2sv/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3819-count-covered-buildings](https://github.com/keneanbiru/a2sv/tree/master/3819-count-covered-buildings) |
 | [3934-coupon-code-validator](https://github.com/keneanbiru/a2sv/tree/master/3934-coupon-code-validator) |
 ## Queue
@@ -114,4 +118,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/keneanbiru/a2sv/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/keneanbiru/a2sv/tree/master/0424-longest-repeating-character-replacement) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keneanbiru/a2sv/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keneanbiru/a2sv/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->

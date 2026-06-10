@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/keneanbiru/a2sv/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/keneanbiru/a2sv/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/keneanbiru/a2sv/tree/master/0498-diagonal-traverse) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keneanbiru/a2sv/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0679-24-game](https://github.com/keneanbiru/a2sv/tree/master/0679-24-game) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/keneanbiru/a2sv/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/keneanbiru/a2sv/tree/master/0303-range-sum-query-immutable) |
 | [2529-range-product-queries-of-powers](https://github.com/keneanbiru/a2sv/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keneanbiru/a2sv/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/keneanbiru/a2sv/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

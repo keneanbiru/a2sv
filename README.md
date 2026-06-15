@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/keneanbiru/a2sv/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/keneanbiru/a2sv/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/keneanbiru/a2sv/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/keneanbiru/a2sv/tree/master/0498-diagonal-traverse) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/keneanbiru/a2sv/tree/master/0001-two-sum) |
 | [0166-fraction-to-recurring-decimal](https://github.com/keneanbiru/a2sv/tree/master/0166-fraction-to-recurring-decimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/keneanbiru/a2sv/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/keneanbiru/a2sv/tree/master/0632-smallest-range-covering-elements-from-k-lists) |

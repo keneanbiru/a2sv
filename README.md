@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keneanbiru/a2sv/tree/master/0001-two-sum) |
+| [0119-pascals-triangle-ii](https://github.com/keneanbiru/a2sv/tree/master/0119-pascals-triangle-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/keneanbiru/a2sv/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/keneanbiru/a2sv/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/keneanbiru/a2sv/tree/master/0498-diagonal-traverse) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/keneanbiru/a2sv/tree/master/0119-pascals-triangle-ii) |
 | [0826-soup-servings](https://github.com/keneanbiru/a2sv/tree/master/0826-soup-servings) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/keneanbiru/a2sv/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 ## Probability and Statistics

@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/keneanbiru/a2sv/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/keneanbiru/a2sv/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/keneanbiru/a2sv/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/keneanbiru/a2sv/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/keneanbiru/a2sv/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/keneanbiru/a2sv/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/keneanbiru/a2sv/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/keneanbiru/a2sv/tree/master/0424-longest-repeating-character-replacement) |
 | [3934-coupon-code-validator](https://github.com/keneanbiru/a2sv/tree/master/3934-coupon-code-validator) |
 ## Enumeration
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/keneanbiru/a2sv/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0908-middle-of-the-linked-list](https://github.com/keneanbiru/a2sv/tree/master/0908-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/keneanbiru/a2sv/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
